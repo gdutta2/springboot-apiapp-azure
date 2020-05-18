@@ -1,5 +1,5 @@
 # springboot-apiapp-azure
-Springboot App which deploys on Azure as an API APP.
+Springboot App - This Connects to SQL Server Database and deploys on Azure as an API APP.
 # Pre requisites : Eclipse, Azure Subscription, Azure CLI, Maven Installed in your System.
 
 1. Import the Project as an "Existing Maven Project" in Eclipse.
